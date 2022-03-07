@@ -508,7 +508,7 @@ footer {
     .copm__card p {
         text-align: center;
         text-transform: uppercase;
-        margin: 8px 0px;
+        margin: 8px auto;
         font-size: 13px;
         max-width: 315px;
     }
